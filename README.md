@@ -1,2 +1,1 @@
-# money-printing-machine
-RAHASAMPO
+# A ML approach to betting
